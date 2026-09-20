@@ -16,7 +16,7 @@ the scenarios that separated them.
 
 ## What it contains
 
-- `tasks/` — 10 evaluation task specifications, each with a scenario,
+- `tasks/` — 11 evaluation task specifications, each with a scenario,
   what to ask the tool, and pass criteria
 - `rubric.md` — a 5-dimension scoring rubric (0–2 per dimension)
 - `results/template.md` — a form for recording an evaluation run
@@ -38,10 +38,12 @@ roadmap.
 ## Status & roadmap (v0.1 — under active development)
 
 - [x] Task set v0.1 (10 tasks) and scoring rubric
+- [x] Task 11: design-to-code fidelity (added post-v0.1, from case-study findings)
 - [ ] Reference codebase fixtures per task
 - [ ] Automated runner and scoring scripts
 - [ ] Community-contributed task packs
-- [ ] Design-to-code fidelity task family (UI implementation from Figma/design artefacts)
+- [ ] Expand design-to-code into a full task family (further
+      Figma/design-artefact scenarios beyond Task 11)
 
 Contributions and issue reports are welcome.
 
