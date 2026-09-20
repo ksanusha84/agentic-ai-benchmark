@@ -41,6 +41,7 @@ roadmap.
 - [ ] Reference codebase fixtures per task
 - [ ] Automated runner and scoring scripts
 - [ ] Community-contributed task packs
+- [ ] Design-to-code fidelity task family (UI implementation from Figma/design artefacts)
 
 Contributions and issue reports are welcome.
 
